@@ -2,8 +2,10 @@
 Analyzing attributes of the songs in your library and automatically adding recommended songs from a given playlist back to your library.
 
 Contributors:
-Mohnish Chakravarti
-Anant Majumdar
+<ul>
+  <li>Anant Majumdar</li>
+  <li>Mohnish Chakravarti</li>
+  </ul>
 
 Methods used: k-NN, and a Euclidean distance-based approach where we check if the value of the song's attributes fall within a certain range of your playlist's average.
 
